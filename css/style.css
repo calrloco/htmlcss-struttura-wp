@@ -29,7 +29,7 @@ body{
     /* layout var */
     --row-width:114rem;
     --gutter-horizontal: 3rem;
-    --col-vh:70vh;
+    --col-vh:80vh;
     --head-foot-height:10vh;
     --padding-main:2rem;
 }
